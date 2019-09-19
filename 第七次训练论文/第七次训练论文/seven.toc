@@ -1,0 +1,45 @@
+\contentsline {section}{\numberline {一、}问题重述}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题背景}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题的提出}{1}{subsection.1.2}% 
+\contentsline {section}{\numberline {二、}模型的假设}{2}{section.2}% 
+\contentsline {section}{\numberline {三、}符号说明}{2}{section.3}% 
+\contentsline {section}{\numberline {四、}问题分析}{3}{section.4}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题一分析}{3}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题二分析}{3}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题三分析}{3}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}问题四分析}{3}{subsection.4.4}% 
+\contentsline {section}{\numberline {五、}基于改进的P-GM(1,1)灰色预测传染病预测模型}{3}{section.5}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题分析}{3}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}预备工作}{4}{subsection.5.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}数据预处理}{4}{subsubsection.5.2.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}变化趋势分析}{4}{subsubsection.5.2.2}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}灰色系统理论}{5}{subsubsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}基于改进的P-GM(1,1)传染病预测模型的建立}{5}{subsection.5.3}% 
+\contentsline {subsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}模型求解与结果检验}{6}{subsection.5.4}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}全国发病人数和死亡人数}{6}{subsubsection.5.4.1}% 
+\contentsline {subsubsection}{\numberline {5\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}皮尔逊检验}{6}{subsubsection.5.4.2}% 
+\contentsline {section}{\numberline {六、}问题二模型的建立与求解}{7}{section.6}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题分析}{7}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}预备工作}{7}{subsection.6.2}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}有效人群的筛选}{7}{subsubsection.6.2.1}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}地区的划分}{8}{subsubsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}问题二模型的建立}{9}{subsection.6.3}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}重点人群的预测模型}{9}{subsubsection.6.3.1}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}重点区域的预测模型}{10}{subsubsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4}模型求解与结果检验}{11}{subsection.6.4}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}重点人群预测结果}{11}{subsubsection.6.4.1}% 
+\contentsline {subsubsection}{\numberline {6\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}4\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}重点区域预测结果}{12}{subsubsection.6.4.2}% 
+\contentsline {section}{\numberline {七、}问题三模型的建立与求解}{13}{section.7}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}问题分析}{13}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}问题三模型的建立}{13}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型求解与结果检验}{14}{subsection.7.3}% 
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}预测结果}{14}{subsubsection.7.3.1}% 
+\contentsline {subsubsection}{\numberline {7\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}结果检验}{14}{subsubsection.7.3.2}% 
+\contentsline {section}{\numberline {八、}给相关部门的一封建议信}{14}{section.8}% 
+\contentsline {section}{\numberline {九、}模型评价}{15}{section.9}% 
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}模型优点}{15}{subsection.9.1}% 
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}2}模型缺点}{16}{subsection.9.2}% 
+\contentsline {subsection}{\numberline {9\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}3}模型改进}{16}{subsection.9.3}% 
+\contentsline {section}{\numberline {十、}代码}{17}{section.10}% 
+\contentsline {subsection}{\numberline {10\tmspace +\thinmuskip {.1667em}.\tmspace +\thinmuskip {.1667em}1}全国发病人数和死亡人数的时间关联性检验--Matlab 源程序}{17}{subsection.10.1}% 
+\contentsfinish 

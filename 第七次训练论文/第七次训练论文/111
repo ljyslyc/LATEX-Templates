@@ -1,0 +1,13 @@
+\begin{align}
+    f_m=k_{9}cos(w_cx_c)+k_{10}sin(w_cx_c)+k_{11}cos(2w_cx_c)+k_{12}sin(2w_cx_c)\\
+    \notag
+    +k_{13}cos(3w_cx_c)+k_{14}sin{3w_cx_c}+k_7x_c^3+k_{15}x_c^2+k_{16}x_c+k_{17},
+\end{align}
+\begin{align}
+    f_n=k_{18}cos(w_dx_d)+k_{19}sin(w_dx_d)+k_{20}cos(2w_dx_d)+k_{21}sin(2w_dx_d)\\
+    \notag
+    +k_{22}cos(3w_dx_d)+k_{23}sin{3w_dx_d}+k_{24}x_d^3+k_{25}x_d^2+k_{26}x_d+k_{10},
+\end{align}
+\begin{equation}
+    f=\frac{f_q+f_p+f_m+f_n}{k_{27}L_{\omega\alpha}},
+\end{equation}
