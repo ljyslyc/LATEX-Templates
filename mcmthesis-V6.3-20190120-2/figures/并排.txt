@@ -1,0 +1,20 @@
+\begin{figure}[htbp]
+    	\centering
+    	\subfigure[]{
+    		\begin{minipage}[t]{0.55\linewidth} %%当前行的宽度
+    			\centering
+    			\includegraphics[width=8cm,height=4cm]{2010} %%
+    			\caption{The top 4 counties of the total drug reports datas in five states in 2010 } %%2010
+    			%\subcaption*{}
+    		\end{minipage}%
+    	}%
+    	\subfigure[]{
+    		\begin{minipage}[t]{0.45\linewidth}
+    			\centering
+    			\includegraphics[width=8cm,height=4cm]{2011}
+    			\caption{fig2} %%
+    			%\subcaption*{}
+    		\end{minipage}%
+    	}%
+    \end{figure}
+    

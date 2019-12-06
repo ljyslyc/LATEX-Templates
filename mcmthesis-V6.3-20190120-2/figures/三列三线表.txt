@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\begin{tabular}{cll} \toprule 
+Symbol & Definition & Units\\ \midrule 
+a & The length of the system & m\\
+b & The width of the system & m\\ 
+h&The height of the system&m\\
+t&The time system goes through&s\\
+T&The temperature of a certain point in the system&degree Celsius\\
+$T_0$&The initial temperature of the system&degree Celsius\\
+$T_1$&The temperature of the air above the water&degree Celsius\\
+C&Specific heat Capacity of the system&${\rm{J}}/(kg \cdot ^\circ{\rm{C}})$\\
+W&Heat&J\\
+$k_0$&Newton's law of cooling for water&W/($m^2$*K)\\
+$k_1$&The thermal conductivity of a specific type of material &W/($m^2$*K)\\
+$m_0$&Mass of the system&Kg\\
+$\Omega$&The region the system belongs to&/\\
+S&Any closed surface in the system&/\\
+$v_1$&The velocity of flow from the inlet&L/s\\
+$v_2$&The velocity of flow from the overflow drain&L/s\\ \bottomrule 
+\end{tabular} 
+\end{table}
